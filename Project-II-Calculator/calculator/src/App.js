@@ -10,7 +10,7 @@ const App = () => {
     <div className='container'>
       <Display />
       <Action action="clear" actionStyle="clear" />
-      <Operation operation='%' buttonStyle='operation'  />
+      <Operation operation='&divide;' buttonStyle='operation'  />
       <Number number='7'  buttonStyle='number'  />
       <Number number='8' buttonStyle='number'  />
       <Number number='9' buttonStyle='number'  />
