@@ -1,1 +1,11 @@
 /* All styles for your header Components live here */
+.head {
+    display: flex;
+}
+.date {
+    color: #999999;
+}
+.image {
+    width: 10%;
+    height: 10%;
+}
