@@ -1,0 +1,51 @@
+.number{
+    color: black;
+
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 800;
+
+}
+
+.clear{
+    color: black;
+
+    border: 1px solid grey;
+    width: 304px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    
+
+}
+
+.zero {
+    border: 1px solid grey;
+    width: 304px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 800;
+      
+}
+
+.operation {
+    border: 1px solid grey;
+    background: brown;
+    color: white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}

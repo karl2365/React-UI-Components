@@ -1,1 +1,24 @@
 /* All styles for your Card Components live here */
+.container {
+    width: 60%;
+    margin-left: 8%;
+}
+
+.lighter {
+    color: #999999;
+}
+img { 
+    width: 100%;
+}
+div {
+    text-decoration: none;
+}
+p {
+    color: black;
+}
+a { 
+    text-decoration: none;
+}
+.card-content {
+    margin-left: 15px;
+}
